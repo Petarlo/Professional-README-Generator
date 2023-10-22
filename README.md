@@ -20,9 +20,13 @@
 
   ## Usage
   Screenshots and a video demonstration of the application are below...
+  ![Screenshot of application](./Assets/Images/Screenshot.png)
+
+  ![Video demonstration](./Assets/Images/Demo.gif)
 
   ## Licenses
-    This project is covered under the MIT license. To learn more about what this means, click the license button at the top.
+    This project is covered under the MIT license. 
+    To learn more about what this means, click the license button at the top.
 
   ## How to contribute
   Please get in touch via the details below to discuss third party contributions.

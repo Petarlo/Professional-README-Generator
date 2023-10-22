@@ -29,7 +29,8 @@ function renderLicenseSection(license) {
     return ``;
   } else {
     return `## Licenses
-    This project is covered under the ${license} license. To learn more about what this means, click the license button at the top.`
+    This project is covered under the ${license} license. <br> 
+    To learn more about what this means, click the license button at the top.`
   }
 }
 
@@ -47,9 +48,9 @@ function generateMarkdown(data) {
   * [Installation](#installation)
   * [Usage](#usage)
   * [Licenses](#licenses)
-  * [Contributing](#contributing)
+  * [Contributing](#how-to-contribute)
   * [Tests](#tests)
-  * [Questions/Contact Info](#questions)
+  * [Questions/Contact Info](#questionscontacts)
   * [Credits](#credits)
 
   ## Installation
