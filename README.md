@@ -16,13 +16,14 @@
   * [Credits](#credits)
 
   ## Installation
-  The user should clone the code from this GitHub repository and download Node. This application also requires a file system and inquirer module.
+  The user should clone the code from this GitHub repository and download Node. This application also requires VScode (or similar), a file system and inquirer module.
 
   ## Usage
   Screenshots and a video demonstration of the application are below...
-  ![Screenshot of application](./Assets/Images/Screenshot.png)
-
-  ![Video demonstration](./Assets/Images/Demo.gif)
+  ![Screenshot of application](./utils/Images/CLIscreenshot.png)
+  ![Screenshot of application](./utils/Images/generatedMDscreenshot.png)
+  ![Screenshot of application](./utils/Images/generatedREADMEgithub.png)
+  ![Video demonstration](./utils/Images/VideoDemonstration.webm)
 
   ## Licenses
   This project is covered under the MIT license. 
@@ -32,7 +33,7 @@
   Please get in touch via the details below to discuss third party contributions.
 
   ## Tests
-  TBA
+  N/A
 
   ## Questions/Contacts
   Have questions about this project?  
