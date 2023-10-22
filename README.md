@@ -10,9 +10,9 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [Licenses](#licenses)
-  * [Contributing](#contributing)
+  * [Contributing](#how-to-contribute)
   * [Tests](#tests)
-  * [Questions/Contact Info](#questions)
+  * [Questions/Contact Info](#questionscontacts)
   * [Credits](#credits)
 
   ## Installation
@@ -25,8 +25,8 @@
   ![Video demonstration](./Assets/Images/Demo.gif)
 
   ## Licenses
-    This project is covered under the MIT license. 
-    To learn more about what this means, click the license button at the top.
+  This project is covered under the MIT license. 
+  To learn more about what this means, click the license button at the top.
 
   ## How to contribute
   Please get in touch via the details below to discuss third party contributions.
