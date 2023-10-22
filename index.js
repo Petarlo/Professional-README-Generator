@@ -123,18 +123,32 @@ const questions = [
             if (emailInput) {
                 return true;
             } else {
-                console.log('Please enter your email address so people know how to contact you');
+                console.log('Please enter your email address so users know how to contact you');
                 return false;
             }
         }
     },
+    {
+        type: 'input',
+        name: 'credit',
+        message: 'List collaborators and links to their Github Profiles. Also list any third-party assets that require attribution:',
+        validate: creditInput => {
+            if (creditInput) {
+                return true;
+            } else {
+                console.log('Please list any assistance utilised with this appliction.');
+                return false;
+            }
+        }
+    }
+
 ];
 
 // Function to write README file
 const writeToFile = data => {
     return new Promise((resolve, reject) => {
         // make a readme file and add to dist folder
-        fs.writeFile('./dist/README.md', data, err => {
+        fs.writeFile('./gen/README.md', data, err => {
             // if there's an error, reject the Promise and send the error to .catch() method
             if (err) {
                 reject (err);
@@ -144,7 +158,7 @@ const writeToFile = data => {
             // if everything went well, resolve the Promise and send the successful data to the .then() method
             resolve({
                 ok: true,
-                message: console.log('Success! Navigate to the "dist" folder to see your README!')
+                message: console.log('Success! Navigate to the "gen" folder to see your README!')
             });
         })
     })

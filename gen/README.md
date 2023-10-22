@@ -1,6 +1,6 @@
 # Professional-README-Generator
 
- [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://lbesson.mit-license.org/)
+  [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
   ## Description
   The aim of this challenge was to use create a Professional README Generator from the command-line using only Node.js.
