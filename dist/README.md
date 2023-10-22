@@ -1,9 +1,9 @@
-# hj
+# Professional README
 
-  
+  [![GPL license](https://img.shields.io/badge/license-GPL-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
   ## Description
-  fghj
+  Create a Professional README generator
 
   ## Table of Contents
   * [Description](#description)
@@ -16,24 +16,25 @@
   * [Credits](#credits)
 
   ## Installation
-  ghj
+  Create a Professional README generator
 
   ## Usage
-  sgf
+  Create a Professional README generator
 
   ## Licenses
-  
+  ## Licenses
+    This project is covered under the GPL license. To learn more about what this means, click the license button at the top.
 
   ## Contributing
-  sfgh
+  Code adjustments
 
   ## Tests
-  sfgh
+  test this
 
   ## Questions
   Have questions about this project?  
-  GitHub: https://github.com/srth  
-  Email: xfgh
+  GitHub: https://github.com/pes  
+  Email: osjk@gkak.com
 
   ## Credits
   undefined
