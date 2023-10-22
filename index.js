@@ -8,7 +8,7 @@ const questions = [
     {
         type: 'input',
         name: 'title',
-        message: 'What is the title of your project?',
+        message: 'What is the title of your project?:',
         validate: titleInput => {
             if (titleInput) {
                 return true;
@@ -34,7 +34,7 @@ const questions = [
     {
         type: 'input',
         name: 'installation',
-        message: 'What are the instructions for installation?',
+        message: 'What are the instructions for installation?:',
         validate: installationInput => {
             if (installationInput) {
                 return true;
@@ -60,7 +60,7 @@ const questions = [
     {
         type: 'input',
         name: 'contributing',
-        message: 'How can others contribute to this project?',
+        message: 'How can others contribute to this project?:',
         validate: contributionInput => {
             if (contributionInput) {
                 return true;
@@ -73,7 +73,7 @@ const questions = [
     {
         type: 'input',
         name: 'tests',
-        message: 'Provide instructions for testing your application along with examples.',
+        message: 'Provide instructions for testing your application along with examples:',
         validate: testsInput => {
             if (testsInput) {
                 return true;
@@ -86,13 +86,13 @@ const questions = [
     {
         type: 'confirm',
         name: 'confirmLicenses',
-        message: 'Would you like to include a license?',
+        message: 'Would you like to include a license?:',
         default: false
     },
     {
         type: 'list',
         name: 'licenses',
-        message: 'What license would you like to include?',
+        message: 'What license would you like to include?:',
         choices: ['MIT', 'GPL', 'CC--0'],
         when: ({ confirmLicenses }) => {
             if (confirmLicenses) {

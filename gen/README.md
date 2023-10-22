@@ -22,8 +22,8 @@
   Here are the instructions and examples for usage... 1.ghghghgh 2.klklklklklklk 3. etc
 
   ## Licenses
-    This project is covered under the GPL license. <br> 
-    To learn more about what this means, click the license button at the top.
+  This project is covered under the GPL license.
+  To learn more about what this means, click the license button at the top.
 
   ## How to contribute
   You can contribute to this project by emailing your ideas.
@@ -37,5 +37,4 @@
   Email: demo@harleyquinn.com
 
   ## Credits
-  Bruce Wayne https://github.com/supermansucks <br> 
-  https://acme-coding.com
+  Bruce Wayne https://github.com/supermansucks <br> https://acme-coding.com
