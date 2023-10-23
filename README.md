@@ -19,12 +19,15 @@
   The user should clone the code from this GitHub repository and download Node. This application also requires VScode (or similar), a file system and inquirer module.
 
   ## Usage
-  Screenshots and a video demonstration of the application are below...
+  Screenshots and a video demonstration of the application are below. There's also a copy of the full video in utils>Images
   ![Screenshot of application](./utils/Images/CLIscreenshot.png)
   ![Screenshot of application](./utils/Images/generatedMDscreenshot.png)
   ![Screenshot of application](./utils/Images/generatedREADMEgithub.png)
-  ![Video demonstration](./utils/Images/VideoDemonstration.mp4)
-  ![GIF demo](./utils/Images/VideoDemonstrationGIF.gif)
+  ![GIF demo](./utils/Images/VideoDemonstrationGIF.gif) <br>
+   [Link to Video demonstration on Google Drive](https://drive.google.com/file/d/10I5vuh-jScjGXVrqUXW1GgFG5utD-hNX/view)
+   
+   
+  
 
   ## Licenses
   This project is covered under the MIT license. 
