@@ -23,7 +23,8 @@
   ![Screenshot of application](./utils/Images/CLIscreenshot.png)
   ![Screenshot of application](./utils/Images/generatedMDscreenshot.png)
   ![Screenshot of application](./utils/Images/generatedREADMEgithub.png)
-  ![Video demonstration](./utils/Images/Video%20Demonstration.mp4)
+  ![Video demonstration](./utils/Images/VideoDemonstration.mp4)
+  ![GIF demo](./utils/Images/VideoDemonstrationGIF.gif)
 
   ## Licenses
   This project is covered under the MIT license. 
